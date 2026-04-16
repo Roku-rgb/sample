@@ -2,7 +2,7 @@
 
 一個用於示範與練習的簡易專案。
 
-## 專案簡介
+## Project Overview
 
 此專案目前以 `README.md` 作為主要內容，適合用來示範：
 
@@ -10,12 +10,12 @@
 - 文件撰寫
 - Git 版本控管流程
 
-## 環境需求
+## Requirements
 
 - Git（建議使用最新版）
 - Linux / macOS / Windows（含 WSL）皆可
 
-## 快速開始
+## Quick Start
 
 1. 複製專案
 
@@ -36,13 +36,13 @@ ls -la
 cat README.md
 ```
 
-## 使用說明
+## Usage
 
-### 1) 修改文件內容
+### 1) Edit Documentation
 
 你可以直接編輯 `README.md`，補充專案資訊、功能說明或操作步驟。
 
-### 2) 提交你的變更
+### 2) Commit Your Changes
 
 ```bash
 git add README.md
@@ -50,7 +50,7 @@ git commit -m "docs: update README usage guide"
 git push
 ```
 
-### 3) 持續擴充
+### 3) Continue Expanding
 
 當專案新增程式碼後，建議在 README 補上：
 
